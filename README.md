@@ -16,7 +16,7 @@ Git
 # Installation
 
 Follow these steps to install and run the Reddit clone app on your local machine:
-Clone this repository to your local machine: git clone https://github.com/LondheShubham153/reddit-clone-k8s-ingress.git
+Clone this repository to your local machine: git clone https://github.com/VahiniPonnoju/Reddit-Clone-K8s-Ingress.git
 Navigate to the project directory: cd reddit-clone-k8s-ingress
 Build the Docker image for the Reddit clone app: docker build -t reddit-clone-app .
 Deploy the app to Kubernetes: kubectl apply -f deployment.yaml
